@@ -1,0 +1,7 @@
+{
+  "name": "examen-final-luis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
